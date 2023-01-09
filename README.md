@@ -14,7 +14,7 @@ To use this program follow these steps:
  
  Example:
  
-** Input:**
+** Input **
  
  6 2
  
@@ -32,7 +32,7 @@ To use this program follow these steps:
  
  
  
-** Output:**
+** Output **
  
  facebook.com 0.20
  
