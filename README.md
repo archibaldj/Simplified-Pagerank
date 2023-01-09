@@ -6,6 +6,8 @@ Pagerank is an algorithm that determines the importance of a website based on th
 A simple explanation of this algorithm can be found here: 
 https://www.youtube.com/watch?v=P8Kt6Abq_rM&ab_channel=GlobalSoftwareSupport
 
+--------------------------------------------------------
+
 To use this program follow these steps:
  - First line will be 2 integers, the first will be how many lines will follow (n), and the second integer will be the amount of power iterations (p)
  - On each of the next lines type two website names or any strings separated by a space
@@ -27,6 +29,8 @@ To use this program follow these steps:
  ufl.edu facebook.com
  
  instagram.com reddit.com
+ 
+ 
  
  Output:
  
