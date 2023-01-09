@@ -15,19 +15,29 @@ To use this program follow these steps:
  Input:
  
  6 2
+ 
  google.com facebook.com
+ 
  google.com instagram.com
+ 
  reddit.com ufl.edu
+ 
  ufl.edu google.com
+ 
  ufl.edu facebook.com
+ 
  instagram.com reddit.com
  
  Output:
  
  facebook.com 0.20
+ 
  google.com 0.10
+ 
  instagram.com 0.10
+ 
  reddit.com 0.20
+ 
  ufl.edu 0.20
 
  
