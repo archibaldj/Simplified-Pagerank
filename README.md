@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=P8Kt6Abq_rM&ab_channel=GlobalSoftwareSupport
 To use this program follow these steps:
  - First line will be 2 integers, the first will be how many lines will follow (n), and the second integer will be the amount of power iterations (p)
  - On each of the next lines type two website names or any strings separated by a space
+ - The output will be the rank of each website
  
  Example:
  
