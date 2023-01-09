@@ -11,6 +11,7 @@ To use this program follow these steps:
  - On each of the next lines type two website names or any strings separated by a space
  
  Example:
+ 
  Input:
  6 2
  google.com facebook.com
