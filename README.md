@@ -13,6 +13,7 @@ To use this program follow these steps:
  Example:
  
  Input:
+ 
  6 2
  google.com facebook.com
  google.com instagram.com
@@ -22,6 +23,7 @@ To use this program follow these steps:
  instagram.com reddit.com
  
  Output:
+ 
  facebook.com 0.20
  google.com 0.10
  instagram.com 0.10
